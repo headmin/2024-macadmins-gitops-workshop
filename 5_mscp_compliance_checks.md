@@ -1,3 +1,5 @@
+image::assets/images/mscp_banner_outline.png[]
+
 # mSCP compliance checks
 
 You probably know all about the [mSCP project](https://github.com/usnistgov/macos_security).
