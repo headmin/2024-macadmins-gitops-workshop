@@ -1,4 +1,4 @@
-image::assets/images/mscp_banner_outline.png[]
+![MSCP Banner](assets/images/mscp_banner_outline.png)
 
 # mSCP compliance checks
 
